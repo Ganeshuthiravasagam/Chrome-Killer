@@ -1,6 +1,6 @@
 # Chrome-Killer 👹
 
-![image](https://github.com/Ganeshuthiravasagam/Chrome-Killer/blob/main/chrome%20killer.jpeg)
+![image](https://github.com/Ganeshuthiravasagam/Chrome-Killer/blob/main/chrome-killer.jpeg)
 
 Using python and PyQt5 package I have built my browser ** "Chrome-Killer" ** We can open any sort of websites utilizing this browser. 💐
 
